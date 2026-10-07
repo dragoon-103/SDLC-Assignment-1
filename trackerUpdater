@@ -1,0 +1,6 @@
+//requirement feature ID HT01
+Namespace trackerUpdater
+FuncClass addSession(inputHabit) {
+  List <?> savedHabit = CheckIfNew(inputHabit);
+  savedHabit.addToList();
+}
