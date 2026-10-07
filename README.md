@@ -1,4 +1,5 @@
-First Initial upload of Assignment 1 documents
+SDLC Assignment 1 README, Austin and Hayden.
+
 
 The branching and merging workflow of our team was as follows:
 
